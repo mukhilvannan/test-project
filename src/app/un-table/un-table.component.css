@@ -1,0 +1,55 @@
+table {
+    width: 90%;
+    margin: auto;
+}
+.btn-edit {
+    text-align: right;
+}
+h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+.Export{
+    float:right;
+    padding-right:100px;
+    
+}
+.Add-new{
+    float:right;
+    padding-right:80px;
+    
+}
+.save-search{
+    float:right;
+    padding-right:80px;
+    
+}
+
+th{
+    background-color: darkgreen;
+
+}
+td{
+    background-color: darkseagreen;
+}
+mat-table{
+    border-radius: 10px;
+    width:100px;
+}
+
+  input,mat-form-field{
+      width: 90px !important;
+  }
+  .datepicker{
+    width: 150px !important;
+  }
+  .mat-row {
+    height: auto;
+  }
+  
+  .mat-cell {
+    padding: 8px 8px 8px 0;
+  }
+
+
+  
